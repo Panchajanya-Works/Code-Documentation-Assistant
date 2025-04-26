@@ -2,6 +2,13 @@
 
 A professional code documentation tool that uses Retrieval-Augmented Generation (RAG) to create context-aware documentation for Python codebases.
 
+## 📺 Demo and Links
+
+- 🔗 [Live Application (Streamlit App)](https://codedocassist.streamlit.app)
+- 🌐 [Project Website (Landing Page)](https://v0-code-documentation-website.vercel.app)
+- 🎥 [Demo Video (YouTube)](https://www.youtube.com/watch?v=KIc4GnvES9Y)
+
+
 ## Overview
 
 The Code Documentation Assistant is an intelligent documentation generator that analyzes your Python code within its broader context. Unlike traditional documentation tools that generate isolated docstrings, this system enhances documentation by:
@@ -39,7 +46,7 @@ The system uses a combination of:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/code-documentation-assistant.git
+   git clone [https://github.com/yourusername/code-documentation-assistant.git](https://github.com/Panchajanya-Works/Code-Documentation-Assistant.git)
    cd code-documentation-assistant
    ```
 
