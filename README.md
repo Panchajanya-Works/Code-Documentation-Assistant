@@ -46,7 +46,7 @@ The system uses a combination of:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/code-documentation-assistant.git](https://github.com/Panchajanya-Works/Code-Documentation-Assistant.git)
+   git clone https://github.com/Panchajanya-Works/Code-Documentation-Assistant.git
    cd code-documentation-assistant
    ```
 
