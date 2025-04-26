@@ -184,3 +184,9 @@ code_documentation_assistant/
 - [Streamlit](https://streamlit.io/) for the web interface
 - [OpenAI](https://openai.com/) for the language models
 - [Pinecone](https://www.pinecone.io/) for vector search capabilities
+
+## Authors
+
+- Manish Choudhary (choudhary.man@northeastern.edu)
+- Sohni Rais (rais.s@northeastern.edu)
+
